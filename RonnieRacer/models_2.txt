@@ -1,0 +1,9 @@
+media/models/Treasure.X
+media/models/skybox/skybox_01.X
+media/models/skybox/skybox_02.X
+media/models/skybox/skybox_03.X
+media/models/vehicle/back_left.X
+media/models/vehicle/back_right.X
+media/models/vehicle/front_left.X
+media/models/vehicle/front_right.X
+media/models/vehicle/body.X

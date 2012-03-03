@@ -1,0 +1,5 @@
+flag model:
+http://artist-3d.com/free_3d_models/dnm/model_disp.php?uid=209
+
+vehicle model:
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/300734
