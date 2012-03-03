@@ -8,5 +8,5 @@ Terrains were built in EarthSculptor. Fun and easy to create multi-textured terr
 
 Instructions:
 1) You need Panda3d and pype installed to run this game
-2) RonnieRacer.py is the main chunk of codes, so take a look at it and feel free to comment. :)
+2) RonnieRacer.py contains the main chunk of codes, so take a look at it and feel free to comment. :)
 3) Screenshots are available
