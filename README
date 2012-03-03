@@ -1,0 +1,12 @@
+Ronnie Racer
+
+A 3D racing game. Race through 3 levels with 5 different kinds of obstacles. Reach the destination as fast as 
+possible and make sure you don't land yourself at the bottom of the cliff. Use your 3 retry wisely and drive smart.
+Avoid all obstacles, hit by it and be blast off.
+
+Terrains were built in EarthSculptor. Fun and easy to create multi-textured terrains from scratch.
+
+Instructions:
+1) You need Panda3d and pype installed to run this game
+2) RonnieRacer.py is the main chunk of codes, so take a look at it and feel free to comment. :)
+3) Screenshots are available
