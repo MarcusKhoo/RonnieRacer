@@ -6,6 +6,8 @@ Avoid all obstacles, hit by it and be blast off.
 
 Terrains were built in EarthSculptor. Fun and easy to create multi-textured terrains from scratch.
 
+Written in python using Panda3D with Bullet physics engine for PC
+
 Instructions:
 1) You need Panda3d v1.8.0 and above.
 2) You need Pype or Komodo Edit 6 and above installed to run this game
